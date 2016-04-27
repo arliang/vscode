@@ -20,6 +20,6 @@
 	"loaderErrorNative": "未能加载所需文件。请重启应用程序重试。详细信息: {0}",
 	"message": "{0}。错误代码: {1}",
 	"nodeExceptionMessage": "发生了系统错误({0})",
-	"notImplementedError": "未实施",
+	"notImplementedError": "未实现",
 	"stackTrace.format": "{0}: {1}"
 }
